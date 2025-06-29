@@ -209,7 +209,7 @@ def get_grade_color_class(grade):
     return f"grade-{grade}"
 
 # Header
-st.markdown('<h1 class="main-header">🏡 Dirt Flipper's County Score Bot</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">🦾 Dirt Flipper\'s County Score Bot</h1>', unsafe_allow_html=True)
 st.markdown('<p class="sub-header">Find the Best Counties for Flipping Vacant Land - Fast!</p>', unsafe_allow_html=True)
 
 # Challenge Banner
